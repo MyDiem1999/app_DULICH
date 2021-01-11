@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InfoActivity"
+    android:background="#F14336">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:padding="16dp"
+        android:layout_below="@+id/furniture">
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/ic_info_black_24dp"
+            android:drawablePadding="4dp"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:padding="18dp"
+            android:textColorHint="@android:color/holo_red_light"></EditText>
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/ic_email_black_24dp"
+            android:drawablePadding="4dp"
+            android:hint="Email"
+            android:inputType="textPersonName"
+            android:padding="18dp"
+            android:textColorHint="@android:color/holo_red_light"></EditText>
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/ic_account_circle_black_24dp"
+            android:drawablePadding="4dp"
+            android:hint="User"
+            android:inputType="textPersonName"
+            android:padding="18dp"
+            android:textColorHint="@android:color/holo_red_light"></EditText>
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/ic_vpn_key_black_24dp"
+            android:drawablePadding="4dp"
+            android:hint="Password"
+            android:inputType="numberPassword"
+            android:padding="18dp"
+            android:textColorHint="@android:color/holo_red_light"></EditText>
+
+        <RadioGroup
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="18dp"
+            android:id="@+id/radioGroup"
+            android:background="#FFFFFF"
+            android:orientation="horizontal">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Male"
+                android:textSize="18sp"
+                android:buttonTint="@android:color/holo_red_light"
+                android:textColor="@android:color/holo_red_light"
+                android:id="@+id/radiobutton1"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:layout_weight="1"
+                android:textSize="18sp"
+                android:buttonTint="@android:color/holo_red_light"
+                android:textColor="@android:color/holo_red_light"
+                android:id="@+id/radiobutton2"/>
+        </RadioGroup>
+    </LinearLayout>
+</RelativeLayout>

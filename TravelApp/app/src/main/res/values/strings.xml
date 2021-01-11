@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BT_activity</string>
+    <string name="Welcome"> Welcome </string>
+
+    <string name="title_home"> Home </string>
+    <string name="tittle_dashboard"> Dashboard </string>
+    <string name="title_notification"> Nofitication </string>
+    <string name="title_account"> Account </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Name product -->
+    <string name="name_product_one"> Zinus Jocelyn Contemporary 65 Inch Armless Sofa, Beige </string>
+    <string name="name_product_two"> GreenForest L-Shaped Corner </string>
+    <string name="name_product_three"> Christopher Knight Home </string>
+    <string name="name_product_four"> Sealy </string>
+    <string name="name_product_five"> Ameriwood Kendall </string>
+
+    <!-- discription -->
+    <string name="product_one"> What’s cooler than a contemporary couch with an exquisite design? Putting one together in less than 20 minutes! The sleek armless Jocelyn Sofa is made with a durable and easy-to-clean beige fabric, sophisticated vertical stitching, tapered wood legs and supportive foam and fiber cushions. And yes, even a couch with this much charisma can be built in just minutes, using only your own two hands. With a little furniture-engineering magic, we’ve packed this Instagram-worthy sofa into one box so it can arrive at your door and be ready for its closeup in no time. And we’ve backed it with a one-year worry-free warranty. Beat that!
+     </string>
+    <string name="product_two"> L-shaped gaming desk is made out of Eco-friendly P2 particle board ,which is moisture-proof and scratch-resistant ,the appearance and functionality are classy and efficient in home/office
+L shaped gaming desk in 3 piece,easy switch the two sides as your habit,which take full advantage of space and save space fits nicely into a room without taking up a ton of space
+L desk for school in very sturdy frame that is designed in an edgy architectural look to support all your office essentials,no serious shaking or movement, very stable and secure
+L desk foot cups height adjustment to keep the legs in same height, strong legs hold pc on top along with the monitors and peripherals, 2 monitors is available
+L shaped desk size :Overall dimensions are 58.1‘’(L) x 44.3"(W) x 29.13"(H), 19.1 inch in deep,you can make as U- shaped with 2 desks,package includes all necessary tools,please install as Instructions steps
+    </string>
+    <string name="product_three"> Wingback Chair: Our Clarice Tall Wingback Fabric Accent Chair in light beige will meet all your indoor furniture needs. This high-class lounge chair pairs perfectly with an ottoman and comes in a variety of colors to suit any style.
+Classic Arm Less Style: At Great Deal Furniture, we bring you the best furniture available. Our stylish chair has timeless wing features on its high back. Its curved design is the perfect focal point for any room, and makes a great location for sitting, reading, and relaxing.
+High-Quality Fabric: To give your space a cozy yet traditional feel, we created our Clarice chair with a tasteful, tufted design. Our chair boasts a linen and polyester fabric blend and durable wood legs, making this chair easy to care for and built to last. This seat will soon be your new favorite spot in the house.
+Living Room and More: Our elegant wingback chair is the perfect addition to any house or apartment. Use it in your TV room, office, dining room, or bedroom. Adults and kids alike will love this new luxury chair that can be moved easily to fit your space. This modern seating option will add a touch of classic beauty to your home.
+Dimensions: Knowing the dimensions of new furniture is essential to ensure that you get something that fits your needs and your space. The chair itself is 27.25” L x 33.75” W x 38.50” H, and the seat is 21.25” D x 27.5” W x 18” H. With this chic chair, you’ll always have a comfortable place to rest after a long day. Light assembly required.
+    </string>
+    <string name="product_four"> MEMORY FOAM MATTRESS IN A BOX—All the comfort and trusted quality of a Sealy mattress, delivered right to your door and ready to use within 24 hours.
+LAYERS OF COMFORT—Softer conforming memory foam “hugs” you for personalized comfort throughout the night, while denser foam layers deeper in the mattress keep you supported.
+COOLER, MORE COMFORTABLE SLEEP—CopperChill fused memory foam promotes cooler, more comfortable sleep.
+IDEAL FOR ALL SLEEP POSITIONS—This medium firm mattress is designed for the way you sleep, whether that’s on your back, stomach, or side.
+CONVENIENT and DURABLE—Shipped direct to you and built to last, you can rest easy on this premium 8 inch mattress for years to come.
+    </string>
+    <string name="product_five">Keep your room clutter free with the SystemBuild Kendall 16” stackable storage cabinet
+The narrow width of this storage cabinet makes it ideal for small spaces, such as a kitchen or laundry room
+Two of these storage cabinets can be stacked on top of one another, creating additional space (each cabinet sold separately)
+16” storage cabinet coordinates with other pieces in the SystemBuild Kendall collection, providing a customized storage solution for any room in your home
+Cabinet features 2 adjustable and 1 fixed shelf to customize your storage
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
