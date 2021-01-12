@@ -103,25 +103,19 @@ public class Utils {
     public ArrayList<Furniture> getMockData() {
         ArrayList<Furniture> tmp = new ArrayList<>();
 
-//        tmp.add(new Furniture(context.getString(R.string.name_product_one), context.getString(R.string.product_one),
-//                Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_1.png")));
-//        tmp.add(new Furniture(context.getString(R.string.name_product_two), context.getString(R.string.product_two),
-//                Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_2.png")));
-//        tmp.add(new Furniture(context.getString(R.string.name_product_three), context.getString(R.string.product_three),
-//                Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_3.png")));
-//        tmp.add(new Furniture(context.getString(R.string.name_product_four), context.getString(R.string.product_four),
-//                Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_4.png")));
-//        tmp.add(new Furniture(context.getString(R.string.name_product_five), context.getString(R.string.product_five),
-//                Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_5.png")));
-
-        tmp.add(new Furniture(context.getString(R.string.name_product_one), context.getString(R.string.product_one), "hinh_1.png"));
-        tmp.add(new Furniture(context.getString(R.string.name_product_two), context.getString(R.string.product_two), "hinh_2.png"));
-        tmp.add(new Furniture(context.getString(R.string.name_product_three), context.getString(R.string.product_three), "hinh_3.png"));
-        tmp.add(new Furniture(context.getString(R.string.name_product_four), context.getString(R.string.product_four), "hinh_4.png"));
-        tmp.add(new Furniture(context.getString(R.string.name_product_five), context.getString(R.string.product_five), "hinh_5.png"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_one), context.getString(R.string.product_one), "phuquoc.jpg"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_two), context.getString(R.string.product_two), "vuontraicay.jpg"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_three), context.getString(R.string.product_three), "phanthiet.jpg"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_four), context.getString(R.string.product_four), "chonoicairang"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_five), context.getString(R.string.product_five), "ninhchudalat.jpg"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_six), context.getString(R.string.product_six), "danang.jpg"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_seven), context.getString(R.string.product_seven), "condao.jpg"));
+        tmp.add(new Furniture(context.getString(R.string.name_product_eight), context.getString(R.string.product_eight), "mocchau.jpg"));
 
         return tmp;
     }
+
+    //==================================== Dashboard ==================================================//
 
     public ArrayList<Categories> getMockDataCategories() {
         ArrayList<Categories> tmp = new ArrayList<>();
@@ -137,49 +131,31 @@ public class Utils {
         ArrayList<Furniture> tmp = new ArrayList<>();
         switch (pos) {
             case 0:
-//                tmp.add(new Furniture(context.getString(R.string.name_product_one),
-//                        context.getString(R.string.product_one), Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_1.png")));
-//                tmp.add(new Furniture(context.getString(R.string.name_product_two),
-//                        context.getString(R.string.product_two),  Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_2.png")));
-//                tmp.add(new Furniture(context.getString(R.string.name_product_three),
-//                        context.getString(R.string.product_three),  Furniture.convertStringToBitmapFromAccess(getContext(),"hinh_3.png")));
-
-                tmp.add(new Furniture(context.getString(R.string.name_product_four),
-                        context.getString(R.string.product_four), "hinh_4.png"));
+                tmp.add(new Furniture(context.getString(R.string.name_product_one), context.getString(R.string.product_one), "phuquoc.jpg"));
                 break;
 
             case 1:
-                tmp.add(new Furniture(context.getString(R.string.name_product_three),
-                        context.getString(R.string.product_three),"hinh_3.png"));
-                tmp.add(new Furniture(context.getString(R.string.name_product_four),
-                        context.getString(R.string.product_four), "hinh_5.png"));
-
-//                tmp.add(new Furniture(context.getString(R.string.name_product_five),
-//                        context.getString(R.string.product_five),  "hinh_2.png"));
+                tmp.add(new Furniture(context.getString(R.string.name_product_two), context.getString(R.string.product_two), "vuontraicay.jpg"));
                 break;
 
             case 2:
-                tmp.add(new Furniture(context.getString(R.string.name_product_two),
-                        context.getString(R.string.product_two), "hinh_2.png"));
-
-//                tmp.add(new Furniture(context.getString(R.string.name_product_three),
-//                        context.getString(R.string.product_three), "hinh_3.png"));
-//                tmp.add(new Furniture(context.getString(R.string.name_product_four),
-//                        context.getString(R.string.product_four),  "hinh_4.png"));
-//                tmp.add(new Furniture(context.getString(R.string.name_product_five),
-//                        context.getString(R.string.product_five),  "hinh_5.png"));
+                tmp.add(new Furniture(context.getString(R.string.name_product_three), context.getString(R.string.product_three), "phanthiet.jpg"));
                 break;
 
             case 3:
-                tmp.add(new Furniture(context.getString(R.string.name_product_three),
-                        context.getString(R.string.product_three), "hinh_1.png"));
-
-//                tmp.add(new Furniture(context.getString(R.string.name_product_four),
-//                        context.getString(R.string.product_four),  "hinh_4.png"));
-//                tmp.add(new Furniture(context.getString(R.string.name_product_five),
-//                        context.getString(R.string.product_five),  "hinh_5.png"));
-//                tmp.add(new Furniture(context.getString(R.string.name_product_one),
-//                        context.getString(R.string.product_one),   "hinh_1.png"));
+                tmp.add(new Furniture(context.getString(R.string.name_product_four), context.getString(R.string.product_four), "chonoicairang"));
+                break;
+            case 4:
+                tmp.add(new Furniture(context.getString(R.string.name_product_five), context.getString(R.string.product_five), "ninhchudalat.jpg"));
+                break;
+            case 5:
+                tmp.add(new Furniture(context.getString(R.string.name_product_six), context.getString(R.string.product_six), "danang.jpg"));
+                break;
+            case 6:
+                tmp.add(new Furniture(context.getString(R.string.name_product_seven), context.getString(R.string.product_seven), "condao.jpg"));
+                break;
+            case 8:
+                tmp.add(new Furniture(context.getString(R.string.name_product_eight), context.getString(R.string.product_eight), "mocchau.jpg"));
                 break;
         }
         return tmp;

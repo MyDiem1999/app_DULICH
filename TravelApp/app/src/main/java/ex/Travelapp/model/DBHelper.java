@@ -12,7 +12,7 @@ public class DBHelper {
     Context context;
     Utils utils;
 
-    String dbName = "FurnitureDB.db";
+    String dbName = "TravelDB.db";
 
     public DBHelper(Context context) {
         this.context = context;

@@ -50,20 +50,16 @@ public class Main2Activity extends AppCompatActivity {
             switch (item.getItemId())
             {
                 case R.id.navigation_home:
-                    //getSupportActionBar().setTitle("Home");
                     fragment = new HomeFragment();
                     loadFrament(fragment);
                     return true;
 
                 case  R.id.navigation_notifications:
-                    //getSupportActionBar().setTitle("Notification");
                     fragment = new NotificationFragment();
                     loadFrament(fragment);
                     return true;
 
                 case R.id.navigation_account:
-//                    getSupportActionBar().setTitle("Profile");
-//                    getSupportActionBar().setDisplayHomeAsUpEnabled(true);
                     searchView.setVisibility(View.GONE);
                     fragment = new AccountFragment();
                     loadFrament(fragment);

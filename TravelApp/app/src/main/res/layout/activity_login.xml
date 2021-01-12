@@ -29,7 +29,8 @@
         android:inputType="textPersonName"
         android:padding="18dp"
         android:textAllCaps="false"
-        android:textColorHint="@android:color/holo_red_light" />
+        android:textColorHint="@android:color/holo_red_light"
+        android:textSize="14dp"/>
 
     <EditText
         android:id="@+id/editText1"
@@ -47,7 +48,8 @@
         android:padding="18dp"
         android:inputType="textPassword"
         android:selectAllOnFocus="true"
-        android:textColorHint="@android:color/holo_red_light" />
+        android:textColorHint="@android:color/holo_red_light"
+        android:textSize="14dp"/>
 
     <ImageView
         android:id="@+id/btnshowpass"
@@ -58,7 +60,7 @@
         android:layout_marginTop="336dp"
         android:layout_marginRight="51dp"
         android:alpha=".5"
-        android:background="@drawable/ic_visibility_black_24dp"
+        android:background="@drawable/ic_baseline_visibility_24"
         android:padding="5dp" />
 
     <Button
@@ -72,7 +74,7 @@
         android:background="@drawable/btn_radius"
         android:text="Đăng Ký"
         android:textColor="#FFFFFF"
-        android:textSize="18sp"/>
+        android:textSize="18dp"/>
     <LinearLayout
         android:layout_width="341dp"
         android:layout_height="wrap_content"
@@ -97,7 +99,7 @@
                 android:background="@drawable/btn_radius"
                 android:text="Đăng nhập"
                 android:textColor="#FFFFFF"
-                android:textSize="18sp"/>
+                android:textSize="18dp"/>
         </LinearLayout>
         <LinearLayout
             android:layout_marginLeft="4dp"
@@ -116,7 +118,7 @@
                 android:background="@drawable/btn_cancel_radius"
                 android:text="Hủy"
                 android:textColor="#333"
-                android:textSize="18sp" />
+                android:textSize="18dp" />
         </LinearLayout>
     </LinearLayout>
 </RelativeLayout>

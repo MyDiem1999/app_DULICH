@@ -57,14 +57,6 @@ public class Furniture implements Serializable {
         this.description = description;
     }
 
-//    public Bitmap getImage() {
-//        return image;
-//    }
-//
-//    public void setImage(Bitmap image) {
-//        this.image = image;
-//    }
-
     public String getSimage() {
         return Simage;
     }
@@ -73,11 +65,6 @@ public class Furniture implements Serializable {
         Simage = simage;
     }
 
-//    public Furniture(String name, String description, Bitmap image) {
-//        this.name = name;
-//        this.description = description;
-//        this.image = image;
-//    }
 
     public Furniture(String name, String description, String simage) {
         this.name = name;

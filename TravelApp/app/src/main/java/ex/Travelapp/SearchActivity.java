@@ -1,7 +1,5 @@
 package ex.Travelapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +9,8 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
 
@@ -44,8 +44,6 @@ public class SearchActivity extends AppCompatActivity {
         furnitureAdapter = new FurnitureAdapter(SearchActivity.this, arrayList);
         listView.setAdapter(furnitureAdapter);
 
-//        Log.d("FurnitureApp", utils.LoadFileInternal().size() + "");
-
         searchView = findViewById(R.id.search_view);
         searchView.setIconifiedByDefault(true);
         searchView.setFocusable(true);
@@ -65,7 +63,7 @@ public class SearchActivity extends AppCompatActivity {
         });
 
         mTagGroup = findViewById(R.id.tag_group);
-        mTagGroup.setTags(new String[]{"Bed", "Living", "Accessories", "Sealy", "Christopher"});
+        mTagGroup.setTags(new String[]{"Đà Nẵng", "Hà Nội", "Đà Lạt", "Côn đảo", "Lạng Sơn"});
         mTagGroup.setOnTagClickListener(new TagGroup.OnTagClickListener() {
             @Override
             public void onTagClick(String tag) {

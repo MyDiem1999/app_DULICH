@@ -1,9 +1,5 @@
 package ex.Travelapp;
 
-import androidx.annotation.Nullable;
-import androidx.annotation.RequiresApi;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -18,6 +14,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
+
+import androidx.annotation.Nullable;
+import androidx.annotation.RequiresApi;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -53,33 +53,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (edtUserName.getText().toString().isEmpty() || edtPassword.getText().toString().isEmpty()) {
-   /*                 final Dialog dialog = new Dialog(LoginActivity.this);
-                    dialog.setContentView(R.layout.dialog_custom);
 
-                    btnOK = dialog.findViewById(R.id.btnOK);
-                    btnCancel = dialog.findViewById(R.id.btnCancel);
-
-                    btnOK.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View v) {
-                            Intent intent = new Intent(LoginActivity.this, RegisterActivity.java.class);
-                            startActivityForResult(intent, 100);
-                            dialog.dismiss();
-
-                        }
-                    });
-
-                    btnCancel.setOnClickListener(new View.OnClickListener() {
-                        @Override
-                        public void onClick(View v) {
-                            dialog.cancel();
-                        }
-                    });
-
-                    dialog.getWindow().setLayout(WindowManager.LayoutParams.MATCH_PARENT, WindowManager.LayoutParams.WRAP_CONTENT);
-                    dialog.show();
-
-    */
                     Toast.makeText(LoginActivity.this, "UserName or Pass is missing", Toast.LENGTH_LONG).show();
                     AlertDialog.Builder dialog = new AlertDialog.Builder(LoginActivity.this);
                     dialog.setTitle("Thông báo");
@@ -115,12 +89,12 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (edtPassword.getTransformationMethod().equals(PasswordTransformationMethod.getInstance())) {
-                    imageView.setImageResource(R.drawable.ic_visibility_off_black_24dp);
+                    imageView.setImageResource(R.drawable.ic_baseline_visibility_off_24);
 
                     //Show Password
                     edtPassword.setTransformationMethod(HideReturnsTransformationMethod.getInstance());
                 } else {
-                    imageView.setImageResource(R.drawable.ic_visibility_black_24dp);
+                    imageView.setImageResource(R.drawable.ic_baseline_visibility_24);
 
                     //Hide Password
                     edtPassword.setTransformationMethod(PasswordTransformationMethod.getInstance());

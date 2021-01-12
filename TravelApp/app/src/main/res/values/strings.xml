@@ -1,46 +1,144 @@
 <resources>
-    <string name="app_name">BT_activity</string>
+    <string name="app_name"> Viettravel </string>
     <string name="Welcome"> Welcome </string>
 
-    <string name="title_home"> Home </string>
+    <string name="title_home"> Trang chủ </string>
     <string name="tittle_dashboard"> Dashboard </string>
-    <string name="title_notification"> Nofitication </string>
-    <string name="title_account"> Account </string>
+    <string name="title_notification"> Thông tin </string>
+    <string name="title_account"> Tài khoản </string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <!-- Name product -->
-    <string name="name_product_one"> Zinus Jocelyn Contemporary 65 Inch Armless Sofa, Beige </string>
-    <string name="name_product_two"> GreenForest L-Shaped Corner </string>
-    <string name="name_product_three"> Christopher Knight Home </string>
-    <string name="name_product_four"> Sealy </string>
-    <string name="name_product_five"> Ameriwood Kendall </string>
+    <string name="name_product_one"> DU LỊCH TẾT TÂN SỬU 2021 PHÚ QUỐC [MÙNG 2, 3, 4 TẾT] KHỞI HÀNH TỪ CẦN THƠ </string>
+    <string name="name_product_two"> DU LỊCH TẾT TÂN SỬU 2021 CẦN THƠ - CỒN SƠN - CHÂU ĐỐC [MÙNG 2,3,4 TẾT] </string>
+    <string name="name_product_three"> DU LỊCH TẾT TÂN SỬU 2021 PHAN THIẾT - MŨI NÉ - LÀNG CHÀI XƯA [MÙNG 2,3,4 TẾT] </string>
+    <string name="name_product_four"> DU LỊCH TẾT TÂN SỬU 2021 MỸ THO - BẾN TRE - CẦN THƠ - CÀ MAU - BẠC LIÊU - SÓC TRĂNG [MÙNG 2,3 TẾT] </string>
+    <string name="name_product_five"> DU LỊCH TẾT TÂN SỬU 2021 NINH CHỮ - ĐÀ LẠT [MÙNG 2 TẾT] </string>
+    <string name="name_product_six"> DU LỊCH TẾT TÂN SỬU 2021 ĐÀ NẴNG - HỘI AN - BÀ NÀ - MỸ KHÊ - BẢO TÀNG TRANH 3D [MÙNG 2 TẾT] </string>
+    <string name="name_product_seven"> DU LỊCH TẾT TÂN SỬU 2021 CÔN ĐẢO [MÙNG 4 TẾT] </string>
+    <string name="name_product_eight"> DU LỊCH HÀ NỘI - MỘC CHÂU - NINH BÌNH - KHỞI HÀNH TỪ CẦN THƠ </string>
+
 
     <!-- discription -->
-    <string name="product_one"> What’s cooler than a contemporary couch with an exquisite design? Putting one together in less than 20 minutes! The sleek armless Jocelyn Sofa is made with a durable and easy-to-clean beige fabric, sophisticated vertical stitching, tapered wood legs and supportive foam and fiber cushions. And yes, even a couch with this much charisma can be built in just minutes, using only your own two hands. With a little furniture-engineering magic, we’ve packed this Instagram-worthy sofa into one box so it can arrive at your door and be ready for its closeup in no time. And we’ve backed it with a one-year worry-free warranty. Beat that!
+    <string name="product_one">
+        Ngày 01: CẦN THƠ – PHÚ QUỐC (Ăn ba bữa)
+02h30 Xe và hướng dẫn viên đón khách tại văn phòng Lữ hành VietTravel. Khởi hành đi bến tàu Rạch Giá.
+06h00 Dùng điểm tâm sáng. Lên tàu đi Phú Quốc chuyến 07h20
+09h50 Đến Phú Quốc, xe đón đoàn tham quan Suối Tranh  .
+12h00 Dùng cơm trưa. Nhận phòng khách sạn.
+Buổi chiều  Chương trình lựa chọn:
+  Lựa chọn 1: Xe đưa đoàn đi tham quan Chùa Hộ Quốc và tiếp tục đến  Bãi Sao – bãi biển cát trắng đẹp và thơ mộng nhất Đảo Ngọc Phú Quốc. Quý khách tự do tham quan tắm biển và chiêm ngưỡng vẻ đẹp tự nhiên với biển xanh cát trắng được bao trọn giữa những ngọn núi đồi.
+  Lựa chọn 2: Xe đưa đoàn đến An Thới di chuyển đến  Hòn Thơm bằng hệ thống cáp treo Vượt biển dài nhất thế giới. Trải nghiệm bãi biển Hòn Thơm: Hòa mình vào làn nước biển xanh biếc tại một trong những hòn đảo đẹp nhất Việt Nam. Quý khách tắm biển và trải nghiệm các trò chơi tại Bãi Trào – một bãi biển hoang sơ với bãi cát trắng trải dài, nước biển xanh biếc. Bên cạnh đó còn có các trò chơi biển vô cùng hấp dẫn như: Jetki, phao kéo chuối, dù lượn, nhà phao công viên nước, chèo thuyền kayak… Thưởng thức show diễn đa màu sắc của các vũ công Philippines và Châu Âu, nghệ sỹ dân gian,… (Chi phí cáp treo tự túc). Trên đường về du khách tham quan cơ sở nuôi cấy ngọc trai. Tại đây du khách sẽ được tìm hiểu quá trình nuôi cấy ngọc trai thiên nhiên và mua sắm các trang sức bằng ngọc trai chính hiệu.
+18h00 Dùng cơm tối. Tối Tự do khám phá Chợ đêm Phú Quốc. Nghỉ đêm tại Phú Quốc.
+
+Ngày 02: KHÁM PHÁ ĐẢO NGỌC PHÚ QUỐC (Ăn sáng, trưa)
+06h30 Đoàn dùng điểm tâm sáng tại khách sạn.
+07h30 Quý khách tham quan Dinh Cậu ngắm ngọn hải đăng Dương Đông trong buổi sáng biển đảo đầy thơ mộng. Đoàn ghé thăm  cơ sở nhà thùng Phú Quốc – tìm hiểu qui trình chế biến nước mắm nổi tiếng của Đảo Ngọc. Mua sắm các loại đặc sản... Tiếp theo Quý khách tham quan  Vườn Tiêu Phú Quốc, Lò chế biến rượu sim. Quý khách có thể mua đặc sản địa phương về làm qua cho người thân.
+11h00 Quý khách dùng cơm trưa và về khách sạn nghỉ ngơi.
+Buổi chiều Chương trình tự chọn (Tự túc tham quan và di chuyển)
+  Lựa chọn 1: Tham quan Khu vui chơi giải trí VinWonders Phú Quốc với các trò chơi trong nhà, trò chơi ngoài trời lần đầu tiên xuất hiện tại Việt Nam: Đĩa quay siêu tốc, Cối xay gió, Đĩa bay…, Lâu đài Cổ tích; Khu công viên nước với các trò chơi mạo hiểm: Boomerang khổng lồ, Đường trượt siêu lòng chảo, Dòng sông lười, lâu đài, bể tạo sóng…; Phim 5D với nhiều kỹ xảo và hiệu ứng hiện đại; Khu Thủy Cung với hàng trăm loài sinh vật biển quý hiếm: chim Cánh cụt, cá Nemo, cá Napoleon, cá Mập trắng, cua King Crab…Thưởng thức chương trình biểu diễn nhạc nước, biểu diễn cá heo, nàng tiên cá,… (Chi phí tự túc)
+  Lựa chọn 2: Khám phá Khu Vinpearl Safari: khám phá Vườn Thú Hoang Dã đầu tiên tại Việt Nam với quy mô 180ha, cùng hơn 130 loài động vật quý hiếm và các chương trình Biểu diễn động vật, Chụp ảnh với động vật, Khám phá và trải nghiệm Vườn thú mở trong rừng tự nhiên, gần gũi và thân thiện với con người  (Chi phí tự túc)
+Tối Tự do khám phá đảo ngọc. Nghỉ đêm tại Phú Quốc.
+
+Ngày 03: PHÚ QUỐC – CẦN THƠ (Ăn ba bữa)
+06h30 Đoàn dùng điểm tâm sáng tại khách sạn.
+07h30 Xe đưa đoàn tham quan  Chợ Dương Đông, mua đặc sản về làm quà cho người thân.
+11h00 Đoàn dùng cơm trưa. Trả phòng.
+13h00 Xe đưa đoàn ra bến tàu làm thủ tục về Rạch Giá chuyến 14h15  .
+16h45 Xe đón đoàn tại bến tàu Rạch Giá đưa về điểm đón ban đầu. Qúy khách ăn nhẹ bánh mỳ trên xe.
+20h00 Đến điểm đón ban đầu. Kết thúc chương trình. Chào tạm biệt và hẹn gặp lại!
      </string>
-    <string name="product_two"> L-shaped gaming desk is made out of Eco-friendly P2 particle board ,which is moisture-proof and scratch-resistant ,the appearance and functionality are classy and efficient in home/office
-L shaped gaming desk in 3 piece,easy switch the two sides as your habit,which take full advantage of space and save space fits nicely into a room without taking up a ton of space
-L desk for school in very sturdy frame that is designed in an edgy architectural look to support all your office essentials,no serious shaking or movement, very stable and secure
-L desk foot cups height adjustment to keep the legs in same height, strong legs hold pc on top along with the monitors and peripherals, 2 monitors is available
-L shaped desk size :Overall dimensions are 58.1‘’(L) x 44.3"(W) x 29.13"(H), 19.1 inch in deep,you can make as U- shaped with 2 desks,package includes all necessary tools,please install as Instructions steps
+
+    <string name="product_two">
+NGÀY 01: TP. HỒ CHÍ Minh - CÁI BÈ - CẦN THƠ (Ăn sáng, trưa, chiều)
+Buổi sáng, quý khách tập trung tại văn phòng Lữ hành VietTravel. Xe và hướng dẫn viên của Lữ hành VietTravel đón khách (lúc 06h00 sáng tại 45 Lê Thánh Tôn, Quận 1 hoặc lúc 06h30 sáng tại số 1 Nguyễn Chí Thanh, Quận 5), khởi hành đi Cần Thơ. Đoàn xuống thuyền đến  Cồn Sơn, trải nghiệm cuộc sống bình dị của cư dân miền sông nước Nam Bộ. Quý khách lên  tham quan bè cá  , tìm hiểu quy trình nuôi cá thát lát, cá trạch lẩu, lươn,... Đến cồn Sơn, quý khách tản bộ trên con đường qua những vườn cây ăn trái xum xuê rợp bóng mát, thưởng thức các loại trái cây (tùy mùa): vú sữa, nhãn, chôm chôm, bưởi, dâu da,... Đoàn ăn trưa với những  món ăn Nam Bộ được chế biến từ nguồn thực phẩm sạch tự cung tự cấp trên cồn, được hướng dẫn và  trải nghiệm tự làm một loại bánh dân gian: bánh khọt, bánh in, bánh kẹp cuốn,... Xe đón đoàn tại bến thuyền về khách sạn nhận phòng nghỉ ngơi, buổi tối tự do đi dạo bến Ninh Kiều, chợ đêm Cần Thơ. Nghỉ đêm tại Cần Thơ.
+
+NGÀY 02 : CẦN THƠ - CHÂU ĐỐC (Ăn sáng, trưa, chiều)
+Buổi sáng, tham quan  Cầu Tình Yêu. Viếng  Thiền viện Trúc Lâm Phương Nam - thiền viện lớn nhất miền Tây. Khởi hành đi Châu Đốc, trên đường tham quan  rừng tràm Trà Sư, du khách sẽ được bước đi trên – “Cầu tre vạn bước” với chiều dài hơn 2km len lỏi vào rừng, hòa mình vào thiên nhiên sinh thái hoang dã, thông thả khám phá những bí ẩn mà một khu rừng đang hiện hữu, đi tắc ráng theo những con rạch xuyên qua Lung Sen và khu Rừng Giống, lên tháp vọng cảnh cao 23m nhìn toàn cảnh rừng tràm và tượng Phật Di Lặc, chùa Vạn Linh trên núi Cấm bằng kính viễn vọng. Nghỉ đêm tại Châu Đốc.
+
+NGÀY 03: CHÂU ĐỐC - TP. HỒ CHÍ Minh (Ăn sáng, trưa)
+Buổi sáng trả phòng viếng  Miếu Bà Chúa Xứ, Tây An cổ tự, Lăng Thoại Ngọc Hầu - danh nhân có công khai mở đất An Giang, Chùa Hang - ngôi chùa gắn liền với truyền thuyết 2 con rắn lớn biết nghe kinh Phật. Khởi hành về TP. HCM. Đến Sa Đéc tham quan  Nhà Cổ Huỳnh Thủy Lê – Ông là người tình của Marguerite Duras – Mối tình đó được bà viết nên tiểu thuyết và dựng thành phim Người tình (L’Amant), Dùng cơm trưa tại Sa Đéc .Đến TP.HCM, đưa quý khách về văn phòng VietTravel. Kết thúc chương trình.
     </string>
-    <string name="product_three"> Wingback Chair: Our Clarice Tall Wingback Fabric Accent Chair in light beige will meet all your indoor furniture needs. This high-class lounge chair pairs perfectly with an ottoman and comes in a variety of colors to suit any style.
-Classic Arm Less Style: At Great Deal Furniture, we bring you the best furniture available. Our stylish chair has timeless wing features on its high back. Its curved design is the perfect focal point for any room, and makes a great location for sitting, reading, and relaxing.
-High-Quality Fabric: To give your space a cozy yet traditional feel, we created our Clarice chair with a tasteful, tufted design. Our chair boasts a linen and polyester fabric blend and durable wood legs, making this chair easy to care for and built to last. This seat will soon be your new favorite spot in the house.
-Living Room and More: Our elegant wingback chair is the perfect addition to any house or apartment. Use it in your TV room, office, dining room, or bedroom. Adults and kids alike will love this new luxury chair that can be moved easily to fit your space. This modern seating option will add a touch of classic beauty to your home.
-Dimensions: Knowing the dimensions of new furniture is essential to ensure that you get something that fits your needs and your space. The chair itself is 27.25” L x 33.75” W x 38.50” H, and the seat is 21.25” D x 27.5” W x 18” H. With this chic chair, you’ll always have a comfortable place to rest after a long day. Light assembly required.
+
+    <string name="product_three">
+NGÀY 01 : TP. HCM - PHAN THIẾT - LÀNG CHÀI XƯA (Ăn sáng, trưa, chiều)
+Đón quý khách tại văn phòng lữ hành VietTravel (lúc 06h00 sáng tại 45 Lê Thánh Tôn, Quận 1 hoặc lúc 06h30 sáng tại số 1 Nguyễn Chí Thanh, Quận 5), khởi hành đi Bình Thuận. Đến Phan Thiết, quý khách tham quan không gian trưng bày nghệ thuật “Làng chài xưa”. Toàn bộ khu trưng bày có diện tích 1.600m². Đây là không gian trưng bày nghệ thuật và là bảo tàng thu nhỏ, tái hiện lại một phần làng chài xưa của Phan Thiết - Mũi Né cách đây hơn 300 năm. Du khách đến đây sẽ được tham quan làng chài dưới rặng dừa; phố cổ ven sông Cà Ty; nhà ở và nơi sản xuất nước mắm của hàm hộ Phan Thiết; con đường Phan Thiết - Mũi Né xưa; đắm mình vào biển Mũi Né 3D và mua sắm trong không gian chợ quê làng xưa… tận mắt được chứng kiến một làng chài xưa của xứ biển Phan Thiết được tái hiện một cách công phu. Nhận phòng và tự do tắm biển tại resort. Nghỉ đêm tại Mũi Né.
+
+NGÀY 02 : THAM QUAN MŨI NÉ - XEM NHẠC KỊCH FISHER MEN SHOW (Ăn sáng, trưa, chiều)
+Buổi sáng, quý khách tự do nghỉ dưỡng hay tắm biển tại khách sạn. Buổi chiều, quý khách tham quan Lâu Đài Rượu Vang - tham quan 2 hầm chứa rượu cùng quy trình và mô hình sản xuất rượu khép kín được thiết kế nằm sâu dưới lòng đất. Xe đưa đoàn vào Hòn Rơm - tham quan thắng cảnh đồi cát vàng dưới tác động của gió biển đã tạo nên những hình dạng rất tuyệt vời. Buổi tối, xe đưa quý khách  đến xem show nhạc kịch nước Huyền Thoại Làng Chài - show giải trí đặc sắc và đậm nét văn hóa làng chài của Phan Thiết - Bình Thuận. Đây là show kịch múa được dàn dựng công phu trên sân khấu nhạc nước đầu tiên và duy nhất tại Việt Nam, áp dụng công nghệ 2D và 3D mới nhất hiện nay. Với thời lượng 1 tiếng cùng kịch bản được dày công biên soạn, sáng tác theo trường phái giả tưởng, dựa theo những truyền thuyết dân gian và huyền thoại về làng chài và biển cả, show trình diễn hứa hẹn mang lại nhiều cảm xúc đến khán giả với các cao trào và tình tiết của câu chuyện cùng những hiệu ứng đặc biệt từ sân khấu nhạc nước đầy mãn nhãn. Nghĩ đêm tại Mũi Né.
+
+NGÀY 03 : MŨI NÉ - PHAN THIẾT - TP. HCM (Ăn sáng, trưa)
+Buổi sáng, quý khách nghỉ ngơi trong resort đến giờ trả phòng. Khởi hành về TP. HCM. Dừng chân mua sắm đặc sản Phan Thiết. Về đến TP.HCM, xe đưa quý khách về điểm đón ban đầu. Kết thúc chương trình.
     </string>
-    <string name="product_four"> MEMORY FOAM MATTRESS IN A BOX—All the comfort and trusted quality of a Sealy mattress, delivered right to your door and ready to use within 24 hours.
-LAYERS OF COMFORT—Softer conforming memory foam “hugs” you for personalized comfort throughout the night, while denser foam layers deeper in the mattress keep you supported.
-COOLER, MORE COMFORTABLE SLEEP—CopperChill fused memory foam promotes cooler, more comfortable sleep.
-IDEAL FOR ALL SLEEP POSITIONS—This medium firm mattress is designed for the way you sleep, whether that’s on your back, stomach, or side.
-CONVENIENT and DURABLE—Shipped direct to you and built to last, you can rest easy on this premium 8 inch mattress for years to come.
+
+    <string name="product_four">
+NGÀY 01: TP. HỒ CHÍ Minh - MỸ THO - BẾN TRE - CẦN THƠ (Ăn sáng, trưa, chiều)
+Đón quý khách tại văn phòng Lữ hành VietTravel, khởi hành đi Mỹ Tho bằng đường cao tốc Sài Gòn - Trung Lương. Đến Mỹ Tho xe đưa khách tham quan chùa Vĩnh Tràng. Di chuyển ra bến tàu, du thuyền trên sông Mekong ngắm cảnh bốn cù lao Long, Lân Qui, Phụng…Tham quan cảng cá Mỹ Tho, làng nuôi cá bè dọc cù lao Tân Long. Đến cù lao Thới Sơn tham quan nhà dân, trại nuôi ong, thưởng thức trà mật ong, chụp hình với Trăn Gấm. Đi bộ trên đường làng Thới Sơn, tham quan lò kẹo dừa, thưởng thức trái cây theo mùa. Nghe nhạc tài tử Nam Bộ. Sang thăm cồn Phụng với di tích Đạo Dừa, trại nuôi cá sấu, vườn thú mini. Khởi hành đi Cần Thơ. Tối tự do dạo bến Ninh Kiều. Nghỉ đêm tại Cần Thơ.
+
+NGÀY 02 : CẦN THƠ - CÀ MAU (Ăn sáng, trưa, chiều)
+Buổi sáng, tham quan Cầu Tình Yêu . Viếng Thiền viện Trúc Lâm Phương Nam - thiền viện lớn nhất miền Tây. Khởi hành đi Cà Mau,nghỉ đêm tại Cà Mau.
+
+NGÀY 03: CÀ MAU- BẠC LIÊU (Ăn sáng, trưa, chiều)
+Sau bữa sáng,đoàn khởi hành đi  Mũi Cà Mau, tham quan và chụp ảnh lưu niệm tại Khu Văn Hóa Du Lịch Mũi Cà Mau, Điểm Cực Nam Tổ Quốc, tham quan mốc toạ độ quốc gia- Panô biểu tượng Mũi Cà Mau. Chiều khởi hành đi Bạc Liêu. Viếng nhà thờ Tắc Sậy và thăm nơi an nghỉ của Linh mục Trương Bửu Diệp. Nghỉ đêm tại Bạc Liêu.
+
+NGÀY 04 : BẠC LIÊU - SÓC TRĂNG- TP.HỒ CHÍ MINH (Ăn sáng, trưa)
+Buổi sáng, tham quan Khu dinh thự Công tử Bạc Liêu, tìm hiểu cuộc đời của Hắc công tử Trần Trinh Huy nổi tiếng giàu có, ăn chơi, phóng khoáng một thời. Khu lưu niệm nghệ thuật Đờn Ca Tài Tử Nam Bộ và nhạc sĩ Cao Văn Lầu, người sáng tác ra bài Dạ Cổ Hoài Lang, tiền đề của nghệ thuật ca ra bộ, cải lương rất đặc sắc của Nam Bộ. Khởi hành về TP.Hồ Chí Minh, ghé Sóc trăng viếng chùa Mã Tộc (chùa Dơi). Tiếp tục khởi hành về thành phố Hồ Chí Minh. Kết thúc chương trình    </string>
+
+    <string name="product_five">
+NGÀY 01: TP.HCM - NINH CHỮ (Ăn sáng, trưa, chiều)
+Đón quý khách tại văn phòng Lữ Hành VietTravel (lúc 06h00 sáng tại 45 Lê Thánh Tôn, Quận 1 hoặc lúc 06h30 sáng tại số 1 Nguyễn Chí Thanh, Quận 5), khởi hành đi Ninh Chữ. Đến Ninh Chữ, đoàn nhận phòng, tự do nghỉ ngơi, tắm biển Ninh Chữ. Nghỉ đêm tại Ninh Chữ.
+
+NGÀY 02: NINH CHỮ - VỊNH VĨNH HY (Ăn sáng, trưa, chiều)
+Đoàn theo tỉnh lộ 702 - cung đường ven biển tuyêt đẹp qua vườn quốc gia Núi Chúa, ngắm toàn cảnh vịnh Vĩnh Hy từ trên cao. Xuống thuyền ngoạn cảnh vịnh Vĩnh Hy, chiêm ngưỡng quần thể san hô đầy màu sắc bằng tàu đáy kính. Sau đó du khách tự do tắm biển, thưởng thức các loại hải sản tươi sống (chi phí tự túc). Quý khách ghé tham quan vườn nho ở Thái An và mua đặc sản. Đoàn về lại Ninh Chữ nghỉ ngơi. Nghỉ đêm tại Ninh Chữ.
+
+NGÀY 03: NINH CHỮ - ĐÀ LẠT (Ăn sáng, trưa, chiều)
+Sau bữa sáng, quý khách trả phòng, xe đưa đoàn đến thăm Trùng Sơn Cổ Tự trên núi Đá Chồng, nơi đoàn có thể ngắm nhìn toàn cảnh Ninh Chữ với những cánh đồng, ruộng muối, đầm phá đan xen tạo nên bức tranh nhiều màu sắc... Đoàn dừng chân tham quan Tháp Chăm Poklong Garai - một kiến trúc văn hóa đặc sắc của người Chăm được xây dựng vào cuối thế kỷ XIV, nghe về sự tích Đồi Trầu và nhìn ngắm tòan bộ cảnh quan TP. Phan Rang. Khởi hành đi Đà Lạt, đến Đà Lạt, đoàn ghé viếng chùa Linh Phước. Xe đưa đoàn đến Quảng trường Lâm Viên với không gian rộng lớn, thoáng mát hướng ra hồ Xuân Hương cùng công trình nghệ thuật khối bông hoa dã quỳ và khối nụ hoa Atiso khổng lồ được thiết kế bằng kính màu rất đẹp mắt. Nhận phòng và nghỉ đêm tại Đà Lạt.
+
+NGÀY 04: THAM QUAN ĐÀ LẠT (Ăn sáng, trưa, chiều)
+Buổi sáng, quý khách đến với Khu Du Lịch Dalat Fairytale Land và Hầm Rượu Vang Vĩnh Tiến, tham quan khu vườn cổ tích đầy màu sắc của những chú lùn nằm trong nhà máy sản xuất rượu vang Vĩnh Tiến, tìm hiểu quy trình sản xuất trà thảo dược, rượu vang, Đông Trùng Hạ Thảo và khám phá đường hầm Rượu vang đặc sắc. Tham quan Nông Trại Cún Puppy Farm với các chú cún từ nhỏ đến lớn được chăm sóc cẩn thận thật đáng yêu. Buổi chiều, đoàn tham quan Đường hầm điêu khắc đất đỏ (Đà Lạt Star) - tái hiện lịch sử Đà Lạt qua hơn 120 năm, Hồ vô cực - nơi tình yêu bắt đầu. Tham quan thác Datanla (tự túc chi phí tham gia trò chơi máng trượt). Nghỉ đêm tại Đà Lạt.
+
+NGÀY 05: ĐÀ LẠT - TP. HỒ CHÍ MINH  (Ăn sáng, trưa)
+Buổi sáng, xe đưa đoàn đến chợ Đà Lạt, quý khách tự do mua sắm. Trả phòng, khởi hành về Tp. HCM. Kết thúc chương trình.
     </string>
-    <string name="product_five">Keep your room clutter free with the SystemBuild Kendall 16” stackable storage cabinet
-The narrow width of this storage cabinet makes it ideal for small spaces, such as a kitchen or laundry room
-Two of these storage cabinets can be stacked on top of one another, creating additional space (each cabinet sold separately)
-16” storage cabinet coordinates with other pieces in the SystemBuild Kendall collection, providing a customized storage solution for any room in your home
-Cabinet features 2 adjustable and 1 fixed shelf to customize your storage
+
+    <string name="product_six">
+        NGÀY 01: TP. HỒ CHÍ MINH – ĐÀ NẴNG – HỘI AN – TẶNG SHOW À Ố (Ăn trưa, chiều)
+Buổi sáng, quý khách tập trung tại Cổng D1, Ga đi trong nước, sân bay Tân Sơn Nhất. Hướng dẫn viên của Lữ hành VietTravel đón quý khách, hỗ trợ làm thủ tục. Khởi hành ra Đà Nẵng trên chuyến bay VN122 lúc 09:45. Đến Đà Nẵng, quý khách tham quan thắng cảnh Ngũ Hành Sơn và làng nghề điêu khắc đá Hòa Hải. Buổi chiều khởi hành tham quan Phố cổ Hội An với các công trình tiêu biểu: Chùa Cầu Nhật Bản, chùa Ông, hội quán Phúc Kiến, khu phố đèn lồng. Đoàn thưởng thức “À Ố Show” – vở diễn độc đáo với hình thức xiếc kể chuyện, sử dụng toàn bộ đạo cụ chính là tre kết hợp với âm nhạc để mang đến những bức tranh hóm hỉnh mà đầy tinh tế từ làng quê yên bình đến phố thị nhộn nhịp đậm nét đời thường của người dân Việt Nam. Sau khi xem show đoàn quay về Đà Nẵng. Nghỉ đêm tại Đà Nẵng
+Lưu ý: Trong trường hợp vì lý do không đủ khách để thực hiện À Ố Show, quý khách sẽ được Lữ hành VietTravel bố trí tham quan Công viên Ấn tượng Hội An, và xem show “Ký Ức Hội An”.
+
+NGÀY 02: ĐÀ NẴNG – KDL BÀ NÀ – CẦU VÀNG  (Ăn sáng, chiều)
+Sau bữa sáng, quý khách sẽ được tự do tham quan hoàn toàn. Lữ hành VietTravel xin phép gợi ý 2 chương trình để quý khách tham khảo:
+ Lựa chọn 1 (Tự túc chi phí ăn trưa + tham quan- chưa bao gồm trong giá tour ) Tự do để khám phá TP.Đà Nẵng. Quý khách có thể ra sông Hàn ngắm cầu Rồng - một trong những con rồng thép lớn nhất thế giới, cầu Trần Thị Lý - với kiến trúc tựa con thuyền căng buồm vươn ra biển lớn, tượng Cá chép hóa rồng - một biểu tượng mang đậm tính nghệ thuật và tín ngưỡng dân gian, cầu Tình Yêu - cây cầu trái tim với những ổ khóa dễ thương trên thành cầu rất thú vị và lãng mạn. Hoặc đến chợ Hàn (hoặc chợ Cồn), mua sắm đặc sản địa phương. Quý khách tự túc ăn trưa, trải nghiệm phong vị ẩm thực độc đáo của Đà Nẵng.
+ Lựa chọn 2 (Tự túc chi phí tham quan và Ăn trưa buffet Việt tại Bà Nà Hills- chưa bao gồm trong giá tour): Xe đưa quý khách đến Ga cáp treo của KDL Bà Nà Hills. Lên Bà Nà bằng cáp treo, ngắm toàn cảnh núi non hùng vỹ và tận hưởng khí hậu trong lành. Dạo bước trên Cầu Vàng tọa lạc tại Vườn Thiên Thai, với thiết kế độc đáo và ấn tượng, đầy mềm mại tựa một dải lụa, được nâng đỡ bởi đôi bàn tay khổng lồ loang lổ rêu phong giữa cảnh sắc nên thơ tuyệt diệu của Bà Nà – Núi Chúa. Viếng chùa Linh Ứng, khám phá Fantasy Park - khu vui chơi giải trí trong nhà đẳng cấp quốc tế (miễn phí 105 trò chơi) và trò chơi Hiệp sĩ Thần thoại (Máng trượt). Dạo bộ giữa Khu làng Pháp một không gian kiến trúc tái hiện sinh động nước Pháp thời cận đại đầy lãng mạn, sang trọng và lịch lãm. Trải nghiệm Tàu hỏa leo núi, tham quan 9 vườn hoa, Hầm rượu cổ Debay (không bao gồm thưởng thức rượu vang) .Tự túc chi phí khám phá Khu trưng bày tượng sáp - duy nhất tại Việt Nam. Xe đưa quý khách về lại TP.Đà Nẵng.
+Nghỉ đêm tại Đà Nẵng.
+
+NGÀY 03: ĐÀ NẴNG – SƠN TRÀ – TP.HCM (Ăn sáng, trưa)
+Buổi sáng, xe đưa quý khách tham quan bán đảo Sơn Trà, ngắm cảng Tiên Sa, viếng chùa Linh Ứng Bãi Bụt – ngôi chùa lớn nhất ở thành phố Đà Nẵng, chiêm bái tượng Phật Quan Thế Âm cao nhất Việt Nam. Đoàn tham quan Bảo tàng tranh 3D Art In Paradise Đà Nẵng, du khách sẽ hoá thân và diễn xuất thành các nhân vật trong những tác phẩm tranh 3D đầy thú vị. Ra sân bay Đà Nẵng để về TP. HCM trên chuyến bay VN131 lúc 15:15. Kết thúc chương trình. Quý khách tự túc phương tiện từ sân bay TSN về nhà.
+    </string>
+
+    <string name="product_seven">
+Ngày 01: TP. HỒ CHÍ MINH - CÔN ĐẢO (Ăn trưa, chiều)
+Buổi sáng, quý khách tập trung tại Ga đi trong nước, sân bay Tân Sơn Nhất. Bay đi Côn Đảo (cất cánh 08h25). Đáp xuống sân bay Cỏ Ống. Khởi hành tham quan Cảng Bến Đầm: Cảng lớn nhất tại Côn Đảo, là địa điểm hoạt động trung chuyển hàng hóa, hành khách, giao dịch, buôn bán thủy sản và cung ứng các dịch vụ hậu cần nghề biển; Mũi Cá Mập : Mỏm núi vươn dài ra biển có hình tượng giống hàm cá mập; Đỉnh Tình Yêu:  Là chóp núi có hình tượng của đôi trai gái đang tâm tình mà thiên nhiên đã ban tặng cho Côn Đảo; Bãi Nhát:  Một bãi tắm bị tác động của thuỷ triều, khi nước xuống sẽ lộ thiên một bãi tắm với cát trắng mịn, nước trong xanh. Quay về khách sạn. Buổi chiều tối quý khách tự do khám phá Côn Đảo. Nghỉ đêm trên Côn Đảo.
+
+NGÀY 02: THAM QUAN CÔN ĐẢO (Ăn sáng, trưa, chiều)
+Buổi sáng, quý khách tham quan Dinh chúa đảo - nơi lưu giữ các tư liệu và hình ảnh của Côn Đảo từ thời Pháp thuộc đến những năm 2000; Trại tù Phú Hải; Cầu tàu 914; Viếng nghĩa trang Hàng Dương nơi yên nghĩ của hơn 2.000 nấm mộ và đặc biệt là mộ cô Sáu (Võ Thị Sáu), Khu Chuồng Cọp Pháp - Mỹ hệ thống biệt giam đặc biệt tại Côn Đảo. Chuồng Bò Miếu bà Phi Yến nơi thờ phượng bà Lê Thị Râm, vợ chúa Nguyễn Ánh. Buổi chiều quý khách đến tắm biển tại bãi Đầm Trầu (cách trung tâm thị trấn Côn Đảo khoảng 13km). Đây là một bãi tắm gần như còn hoang sơ, tuyệt đẹp với cát vàng mịn màng, làn nước trong xanh màu ngọc bích. Từ lộ chính, quý khách đi bộ theo đường mòn khoảng 1,5km để đến bãi tắm. Trên đường đi quý khách dừng chân để viếng Miếu Cậu - nơi thờ hoàng tử Cải, con trai của chúa Nguyễn Ánh và bà Hoàng Phi Yến. Quay về khách sạn. Tự do. Nghỉ đêm ở Côn Đảo.
+
+NGÀY 03: CÔN ĐẢO - TP. HỒ CHÍ MINH (Ăn sáng)
+Buổi sáng, quý khách trả phòng. Di chuyển ra sân bay Cỏ Ống. Bay vào TP.HCM (cất cánh lúc 10h25). Về đến sân bay Tân Sơn Nhất. Kết thúc chương trình. (Quý khách tự túc phương tiện từ sân bay về lại nhà).
+    </string>
+
+    <string name="product_eight">
+Ngày 01: CẦN THƠ – HÀ NỘI – HÒA BÌNH – MỘC CHÂU (Ăn trưa, tối)
+Buổi sáng, quý khách tập trung tại Ga đi trong nước - Sân bay Cần Thơ. Hướng dẫn viên Lữ hành VietTravel đón quý khách và hỗ trợ làm thủ tục. Khởi hành ra Hà Nội (chuyến bay VNA lúc 08:40). Đến sân bay Nội Bài, khởi hành đến tham quan nhà máy thủy điện Hòa Bình. Buổi chiều, đoàn đến Mộc Châu, tham quan thác Dải Yếm, vườn hoa Happy Land. Nghỉ đêm tại Mộc Châu.
+
+Ngày 02: MỘC CHÂU – NINH BÌNH (Ăn sáng, trưa, tối)
+Tham quan đồi chè Mộc Châu, rừng Thông Bản Áng. Đoàn dừng chân nghỉ ngơi tại Thung Khe - đèo Đá Trắng. Tiếp tục về Ninh Bình, thăm cố đô Hoa Lư. Nghỉ đêm tại Ninh Bình.
+
+Ngày 03: NINH BÌNH – HÀ NỘI (Ăn sáng, trưa, tối)
+Buổi sáng, đoàn đến tham quan Khu du lịch Tràng An - KDL nằm trong quần thể danh thắng Tràng An đã được UNESCO công nhận di sản hỗn hợp đầu tiên của Việt Nam và khu vực Đông Nam Á (đạt cả hai tiêu chí về văn hóa và thiên nhiên) vào ngày 25/6/2014. Sau đó, viếng Chùa Bái Đính. Chiều về lại Hà Nội, thăm Văn Miếu Quốc Tử Giám. Buổi tối, đoàn tự do dạo quanh hồ Hoàn Kiếm, tham quan “36 phố phường” -  khu phố cổ với những ngành nghề đặc trưng và truyền thống của cư dân Thủ đô. Nghỉ đêm tại Hà Nội.
+
+Ngày 04: HÀ NỘI – CẦN THƠ (Ăn sáng, trưa)
+Buổi sáng, HDV đưa đoàn đến viếng lăng Chủ tịch Hồ Chí Minh. Tham quan khu di tích Phủ chủ tịch – viếng chùa Trấn Quốc. Sau bữa trưa, xe đưa đoàn đến sân bay Nội Bài làm thủ tục về lại Cần Thơ (Chuyến bay VNA lúc 19h05). Đến sân bay Cần Thơ, Qúy khách tự túc về lại tư gia. Kết thúc chương trình. Chào tạm biệt và hẹn gặp lại.
     </string>
 
     <!-- TODO: Remove or change this placeholder text -->

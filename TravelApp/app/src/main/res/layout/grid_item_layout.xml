@@ -13,7 +13,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:scaleType="fitXY"
-        android:src="@drawable/facebook" />
+        android:src="@drawable/travel" />
 
     <TextView android:id="@+id/Titleproduct"
         android:layout_width="match_parent"

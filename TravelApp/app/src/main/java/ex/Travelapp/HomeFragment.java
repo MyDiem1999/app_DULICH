@@ -2,17 +2,16 @@ package ex.Travelapp;
 
 import android.content.Intent;
 import android.os.Bundle;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -61,13 +60,6 @@ public class HomeFragment extends Fragment {
 //        arrayList = utils.LoadFileInternal();
         arrayList = dbHelper.getAllFurniture();
 
-//        ArrayList<Furniture> arr = new ArrayList<>();
-//        for (int i =0; i< arrayList.size(); i++)
-//        {
-//            arr.add(new Furniture(arrayList.get(i).getName(), arrayList.get(i).getDescription(),
-//                    Furniture.convertStringToBitmapFromAccess(getContext(), arrayList.get(i).getSimage())));
-//        }
-
         furnitureAdapter = new FurnitureAdapter(getContext(), arrayList);
 
         listView.setAdapter(furnitureAdapter);
@@ -99,29 +91,16 @@ public class HomeFragment extends Fragment {
     }
 
     private ArrayList<Furniture> getMockData() {
-//        ArrayList<Furniture> tmp = new ArrayList<>();
-
-//        tmp.add(new Furniture(getString(R.string.name_product_one), getString(R.string.product_one),
-//                Furniture.convertStringToBitmapFromAccess(getContext(), "hinh_1.png")));
-//               tmp.add(new Furniture(getString(R.string.name_product_two), getString(R.string.product_two),
-//                Furniture.convertStringToBitmapFromAccess(getContext(), "hinh_2.png")));
-//        tmp.add(new Furniture(getString(R.string.name_product_three), getString(R.string.product_three),
-//                Furniture.convertStringToBitmapFromAccess(getContext(), "hinh_3.png")));
-//        tmp.add(new Furniture(getString(R.string.name_product_four), getString(R.string.product_four),
-//                Furniture.convertStringToBitmapFromAccess(getContext(), "hinh_4.png")));
-//        tmp.add(new Furniture(getString(R.string.name_product_five), getString(R.string.product_five),
-//                Furniture.convertStringToBitmapFromAccess(getContext(), "hinh_5.png")));
-//
-//        return tmp;
-//    }
-//
         ArrayList<Furniture> tmp = new ArrayList<>();
-        tmp.add(new Furniture(getString(R.string.name_product_one), getString(R.string.product_one), "hinh_1.png"));
-        tmp.add(new Furniture(getString(R.string.name_product_two), getString(R.string.product_two), "hinh_2.png"));
-        tmp.add(new Furniture(getString(R.string.name_product_three), getString(R.string.product_three), "hinh_3.png"));
-        tmp.add(new Furniture(getString(R.string.name_product_four), getString(R.string.product_four), "hinh_4.png"));
-        tmp.add(new Furniture(getString(R.string.name_product_five), getString(R.string.product_five), "hinh_5.png"));
 
+        tmp.add(new Furniture(getString(R.string.name_product_one), getString(R.string.product_one), "phuquoc.jpg"));
+        tmp.add(new Furniture(getString(R.string.name_product_two), getString(R.string.product_two), "vuontraicay.jpg"));
+        tmp.add(new Furniture(getString(R.string.name_product_three), getString(R.string.product_three), "phanthiet.jpg"));
+        tmp.add(new Furniture(getString(R.string.name_product_four), getString(R.string.product_four), "chonoicairang"));
+        tmp.add(new Furniture(getString(R.string.name_product_five), getString(R.string.product_five), "ninhchudalat.jpg"));
+        tmp.add(new Furniture(getString(R.string.name_product_six), getString(R.string.product_six), "danang.jpg"));
+        tmp.add(new Furniture(getString(R.string.name_product_seven), getString(R.string.product_seven), "condao.jpg"));
+        tmp.add(new Furniture(getString(R.string.name_product_eight), getString(R.string.product_eight), "mocchau.jpg"));
         return tmp;
     }
 

@@ -30,7 +30,7 @@
                 android:layout_margin="16dp"
                 android:cursorVisible="false"
                 android:drawableLeft="@drawable/ic_baseline_search_24"
-                android:background="@android:color/white"/>
+                android:background="@drawable/search_radius"/>
 
             <include layout="@layout/layout_title"
                 android:id="@+id/layouttitle"

@@ -1,16 +1,15 @@
 package ex.Travelapp;
 
 import android.os.Bundle;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 import java.util.ArrayList;
 
@@ -48,12 +47,6 @@ public class NotificationFragment extends Fragment {
         Utils utils = new Utils(getContext());
 
         arrayList = utils.getFurnitureHistory();
-//        ArrayList<Furniture> arr = new ArrayList<>();
-//        for (int i =0;i<arrayList.size();i++)
-//        {
-//            arr.add(new Furniture(arrayList.get(i).getName(),arrayList.get(i).getDescription(),
-//                    arrayList.get(i).getSimage()));
-//        }
 
         furnitureAdapter = new FurnitureAdapter(getContext(), arrayList);
 

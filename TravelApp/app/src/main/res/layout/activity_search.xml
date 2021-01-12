@@ -23,7 +23,7 @@
             android:layout_centerInParent="true"
             android:layout_margin="16dp"
             android:queryHint="Name, description"
-            android:background="@android:color/white"/>
+            android:background="@drawable/search_radius"/>
     </RelativeLayout>
 
     <androidx.cardview.widget.CardView
